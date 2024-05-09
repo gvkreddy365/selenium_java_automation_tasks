@@ -28,8 +28,8 @@ git --version
 gradle --version
 ```
 ```
-# vscode 1.88.1
-git --version
+# vscode 1.89.0
+code --version
 ```
 ## Required Dependency to run:
 ```
